@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+  <ul>
+      <li>Novice: EPrints</li>
+      <li>Intermediate: Moodle</li>
+      <li>Expert: Working from home</li>
+  </ul>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Ravi Murugesan [nonviveur@gmail.com](mailto:nonviveur@gmail.com)
