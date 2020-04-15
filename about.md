@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-My competencies:
-
   <ul>
       <li>EPrints -- Novice</li>
       <li>Moodle -- Intermediate</li>
