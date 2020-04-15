@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
+My competencies:
+
   <ul>
-      <li>Novice: EPrints</li>
-      <li>Intermediate: Moodle</li>
-      <li>Expert: Working from home</li>
+      <li>EPrints -- Novice</li>
+      <li>Moodle -- Intermediate</li>
+      <li>Working from home -- Expert</li>
   </ul>
 
-### Contact me
+### Contact
 
 Ravi Murugesan [nonviveur@gmail.com](mailto:nonviveur@gmail.com)
