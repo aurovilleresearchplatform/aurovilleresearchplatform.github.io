@@ -4,7 +4,7 @@ title: Opportunities
 permalink: /opportunities/
 ---
 
-<a href="https://ravi413.github.io/profile1">profile1</a>
+<a href="https://ravi413.github.io/profile1.md">profile1</a>
 
 
 
