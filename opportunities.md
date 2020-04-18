@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Opportunities
+permalink: /opportunities/
 ---
 
-I spend a lot of time on this <a href="https://moodle.inasp.info">Moodle site</a> and this <a href="https://aurorepo.in">EPrints repository</a>. And I'm here when I have something to say.
-
+opportunities
   
 
 ### Contact
