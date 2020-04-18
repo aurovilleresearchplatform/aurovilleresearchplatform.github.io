@@ -4,11 +4,8 @@ title: Opportunities
 permalink: /opportunities/
 ---
 
-opportunities
+<a href="https://ravi413.github.io/profile1">profile1</a>
 
-<nav>
-<a href="{{ site.baseurl }}/profile1">profile1</a>
-</nav>
 
 
 ### Contact
