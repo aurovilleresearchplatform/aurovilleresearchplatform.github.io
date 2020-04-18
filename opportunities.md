@@ -5,7 +5,11 @@ permalink: /opportunities/
 ---
 
 opportunities
-  
+
+<nav>
+<a href="{{ site.baseurl }}/profile1">profile1</a>
+</nav>
+
 
 ### Contact
 
