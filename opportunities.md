@@ -7,6 +7,8 @@ permalink: /opportunities/
 
 blah blah
 
+<a href="/profile1.md">profile 1</a>
+
 
 
 ### Contact
