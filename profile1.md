@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Opportunities
-permalink: /opportunities/
+permalink: /profile1/
 ---
 
-researcher profile here
+researcher profile 1
 
 
 
