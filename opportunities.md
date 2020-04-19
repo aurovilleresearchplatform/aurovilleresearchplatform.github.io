@@ -7,7 +7,7 @@ permalink: /opportunities/
 
 blah blah
 
-<a href="/profile1.md">profile 1</a>
+<a href="/profile1">profile 1</a>
 
 
 
