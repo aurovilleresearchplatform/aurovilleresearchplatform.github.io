@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Opportunities
+title: Researcher 1
 permalink: /profile1/
 ---
 
