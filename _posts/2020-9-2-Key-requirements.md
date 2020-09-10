@@ -29,7 +29,7 @@ Key Resources
 
 Here are some key resources for you to consult in considering undertaking research in Auroville:
 
-- Our Guide for Researchers can be consulted [here](https://google.com).
+- Our Guide for Researchers can be consulted [here]({{ site.baseurl }}/Guide-for-Visiting-Researchers-in-Auroville_04_2020.pdf).
 
 - A growing database of research needs within Auroville is currently in progress, available for you to consult [here](http://auroville-learning.net/what-you-can-do/research/).
 
