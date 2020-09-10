@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 blah blah blah
-  
+
 
 ### Contact
 
-Ravi Murugesan [ravi@uwalumni.com](mailto:ravi@uwalumni.com)
+<a href="mailto:researchplatform@auroville.org.in">researchplatform@auroville.org.in</a>
