@@ -3,8 +3,6 @@ layout: post
 title: Support and Services Offered by the Research Platform team
 ---
 
-### Research
-
 We offer various resources to ensure that your research is original, relevant and of some utility for Auroville; that it can be executed with a strong understanding of the Auroville context, depending on your need. For example, we can provide you with:
 
 - Assistance in identifying collaborative research opportunities with Auroville-based organisations and projects,
@@ -34,6 +32,10 @@ We offer various resources to ensure that your research is original, relevant an
 Our team aspires to increase the quality and impact of research undertaken on Auroville, as well as encourage its dissemination. We are thus also interested in institutional-level partnerships with international and Indian centres of research and innovation. We welcome the collaboration of our visiting researchers in working towards these goals, and encourage you to act as conduits to concretise our research networks!
 
 The Auroville Research Platform team looks forward to hearing from you!
+
+---
+
+Also see the [key requirements to undertake research in Auroville]({{ site.baseurl }}/Key-requirements).
 
 ---
 

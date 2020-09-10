@@ -3,7 +3,7 @@ layout: post
 title: Key Requirements for Undertaking Research in Auroville
 ---
 
-In order to undertake any research in Auroville, please note the following key requirements:
+Please read the information given here before you plan to undertake any research in Auroville.
 
 *1. Make contact with the Research Platform via email.*
 
