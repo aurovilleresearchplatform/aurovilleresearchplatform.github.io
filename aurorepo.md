@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Auroville Repository
+title: AuroRepo
 permalink: /aurorepo/
 ---
 
