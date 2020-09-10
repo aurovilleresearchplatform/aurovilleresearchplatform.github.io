@@ -8,21 +8,23 @@ The Auroville Research Platform supports fertile cooperation between visiting re
 
 ![_config.yml]({{ site.baseurl }}/images/avrp_team_2.jpg)
 
-The Auroville Research Platform team: Dominique, Ravi, Henrike and Suryamayi.
+*The Auroville Research Platform team: Dominique, Ravi, Henrike and Suryamayi*
 
-##Key Requirements
+### Key Requirements for Undertaking Research in Auroville
 
 In order to undertake any research in Auroville, please note the following key requirements:
 
 *1. Make contact with the Research Platform via email.*
+
 Our team can then understand your research intention and give you the appropriate orientation.
 
 *2. Obtain a visa that enables you to legally undertake research in India*
+
 If your research can be supported by us, we will facilitate this process (not applicable for Indian citizens).
 
 *3. Agree to share any outcomes of your research with us for Auroville’s archives.*
 
-##Our Process
+### Our Process
 
 We identify whether your research project is
 
@@ -36,14 +38,16 @@ Key Resources
 
 Here are some key resources for you to consult in considering undertaking research in Auroville:
 
-- Our Guide for Researchers can be consulted here.
+- Our Guide for Researchers can be consulted [here](https://google.com).
 
-- A growing database of research needs within Auroville is currently in progress, available for you to consult at http://auroville-learning.net/what-you-can-do/research/.
+- A growing database of research needs within Auroville is currently in progress, available for you to consult [here](http://auroville-learning.net/what-you-can-do/research/).
 
-- A database of research already undertaken on and in Auroville is available for you to consult at: http://research.auroville.org.
-Support and Services Offered
+- A database of research already undertaken on and in Auroville is available for you to consult on [AuroRepo](https://aurorepo.in).
 
-Research
+
+### Support and Services Offered
+
+**Research**
 
 We offer various resources to ensure that your research is original, relevant and of some utility for Auroville; that it can be executed with a strong understanding of the Auroville context, depending on your need. For example, we can provide you with:
 
@@ -59,7 +63,7 @@ We offer various resources to ensure that your research is original, relevant an
 
 - Access to a network of researchers who are currently in Auroville, or who have done research on Auroville in the past.
 
-Practical
+**Practical**
 
 - We are a point of contact in Auroville to answer any questions you may have about the logistics of your stay,
 
@@ -67,14 +71,13 @@ Practical
 
 - We provide logistical support for presenting your research within the community.
 
-*Please note that strong checks are undertaken by the Indian government to ensure that individuals do not exceed the limitations of their visa. We strongly discourage doing research on a tourist visa, as any activity that exceeds tourist visa limitations can lead to a ban from Indian territory for a minimum of 5 years.
-Exchange
+*Please note that strong checks are undertaken by the Indian government to ensure that individuals do not exceed the limitations of their visa. We strongly discourage doing research on a tourist visa, as any activity that exceeds tourist visa limitations can lead to a ban from Indian territory for a minimum of 5 years.*
+
+### Exchange
 
 Our team aspires to increase the quality and impact of research undertaken on Auroville, as well as encourage its dissemination. We are thus also interested in institutional-level partnerships with international and Indian centres of research and innovation. We welcome the collaboration of our visiting researchers in working towards these goals, and encourage you to act as conduits to concretise our research networks!
 
-The Auroville Research Platform team looks forward to hearing from you at researchplatform@auroville.org.in!
-
-
+The Auroville Research Platform team looks forward to hearing from you!
 
 ## Contact
 
