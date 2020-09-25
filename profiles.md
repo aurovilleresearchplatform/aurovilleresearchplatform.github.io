@@ -5,7 +5,7 @@ permalink: /profiles/
 ---
 
 
-Here you can read about researchers affiliated with Auroville.
+Here you can read about researchers affiliated with or working in Auroville.
 
 ### Researchers living and working in Auroville
 
