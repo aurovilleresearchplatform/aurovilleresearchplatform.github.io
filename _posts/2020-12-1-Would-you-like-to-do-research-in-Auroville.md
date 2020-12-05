@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Would You Like to Do Research in Auroville
+title: Would You Like to Do Research in Auroville?
 ---
 
 Thinking of doing research in Auroville? Here is what you need to know:
