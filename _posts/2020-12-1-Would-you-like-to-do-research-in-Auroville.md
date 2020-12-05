@@ -41,7 +41,7 @@ We encourage everyone to do some form of part-time volunteering besides doing th
 
 Make sure to secure accommodation in Auroville well in advance, as guesthouses are often full, especially in the busy season (December to early March). Once you are here, we can have an initial meeting to see how we can support you in starting your field research.
 
-We recommend that you plan your field research for a duration of at least 3 months, as it can take some time to get used to the environment and explore the many different facets of Auroville. For tips on doing research in the Auroville context, please have a look at our Guide for Researchers!
+We recommend that you plan your field research for a duration of at least 3 months, as it can take some time to get used to the environment and explore the many different facets of Auroville. For tips on doing research in the Auroville context, please have a look at our [Guide for Researchers]({{ site.baseurl }}/images/Guide-for-Visiting-Researchers-in-Auroville_04_2020.pdf)!
 
 # Finances
 

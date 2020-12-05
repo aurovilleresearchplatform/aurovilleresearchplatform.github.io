@@ -7,9 +7,9 @@ Please read the information given here before you plan to undertake any research
 
 **1. Make contact with the Research Platform via email.**
 
-Our team can then understand your research intention and give you the appropriate orientation. Email address: <a href="mailto:researchplatform@auroville.org.in">researchplatform@auroville.org.in</a>
+Our team can then understand your research intention and give you the appropriate orientation. Write to us at <a href="mailto:researchplatform@auroville.org.in">researchplatform@auroville.org.in</a>.
 
-**2. Obtain a visa that enables you to legally undertake research in India**
+**2. Obtain a visa that enables you to legally undertake research in India.**
 
 If your research can be supported by us, we will facilitate this process (not applicable for Indian citizens).
 
