@@ -35,7 +35,7 @@ We can provide you with:
 - We provide administrative support for the procurement of the correct visa needed to do research in Auroville – required by the Indian government*,
 - We provide logistical support for presenting your research within the community.
 
-> Please note that strong checks are undertaken by the Indian government to ensure that individuals do not exceed the limitations of their visa. We strongly discourage doing research on a tourist visa, as any activity that exceeds tourist visa limitations can lead to a ban from Indian territory for a minimum of 5 years.
+*Please note that strong checks are undertaken by the Indian government to ensure that individuals do not exceed the limitations of their visa. We strongly discourage doing research on a tourist visa, as any activity that exceeds tourist visa limitations can lead to a ban from Indian territory for a minimum of 5 years.*
 
 # Opportunities for Exchange
 
