@@ -11,7 +11,7 @@ We offer various resources to ensure that your research is original, relevant an
 
 We first identify whether your research project is
 
-1. A research project that meets an explicit research need of Auroville, and/or
+1. A research project that meets an [explicit research need of Auroville](https://auroville-learning.net/what-you-can-do/research/), and/or
 2. A personal research project.
 
 While we encourage you to explore and engage with Auroville’s research needs, our team supports all research proposals – to the extent that they appear viable – in the spirit of experimentation and collaboration that Auroville is based on.
@@ -30,6 +30,7 @@ We can provide you with:
   - Database of research done on Auroville,
   - Access to a network of researchers who are currently in Auroville, or who have done research on Auroville in the past.
 
+<br>
 
 2. Logistical Support for your Visit
   - We are a point of contact in Auroville to answer any questions you may have about the logistics of your stay,
@@ -45,7 +46,3 @@ Our team aspires to increase the quality and impact of research undertaken on Au
 The Auroville Research Platform team looks forward to hearing from you!
 
 <a href="mailto:researchplatform@auroville.org.in">researchplatform@auroville.org.in</a>
-
----
-[Return to the homepage]({{ site.baseurl }})
----
