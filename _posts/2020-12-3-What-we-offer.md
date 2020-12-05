@@ -22,7 +22,7 @@ Please note that if your research project meets an explicit need of Auroville yo
 
 We can provide you with:
 
-##1. Support for your Research Project##
+## 1. Support for your Research Project
 - Assistance in identifying collaborative research opportunities with Auroville-based organisations and projects,
 - Resource-persons or experts on your subject in the Auroville context,
 - Research mentors, where needed (especially for undergraduate students),
@@ -30,7 +30,7 @@ We can provide you with:
 - Database of research done on Auroville,
 - Access to a network of researchers who are currently in Auroville, or who have done research on Auroville in the past.
 
-##2. Logistical Support for your Visit##
+## 2. Logistical Support for your Visit
 - We are a point of contact in Auroville to answer any questions you may have about the logistics of your stay,
 - We provide administrative support for the procurement of the correct visa needed to do research in Auroville – required by the Indian government*,
 - We provide logistical support for presenting your research within the community.
