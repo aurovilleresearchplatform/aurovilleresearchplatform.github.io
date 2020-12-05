@@ -3,7 +3,7 @@ layout: post
 title: Would You Like to Do Research in Auroville
 ---
 
-> Thinking of doing research in Auroville? Here is what you need to know:
+Thinking of doing research in Auroville? Here is what you need to know:
 
 Every year many researchers come to do academic research in Auroville, usually in pursuit of a PhD or other degree. We are happy to receive them as Auroville is an experiment for all of humanity. Over the years, we have noticed that some things are good to know and do before coming to Auroville. Here is a short overview of how you can approach a research project in Auroville.
 
@@ -29,14 +29,11 @@ First of all, it’s important to make an initial distinction. Do you want to do
 
 There are slightly different procedures for each, especially if you are not an Indian national.
 
-**Independent research project**
-The Research Platform can support an independent research project from the early stages of creating a proposal to the final ones of dissemination and reporting. Along the way, we can help you get in touch with relevant participants, offer you a desk to work from while in the field, and give input and feedback on your project. As an independent researcher, you are asked to take care of your own visa and you will be asked to pay Auroville’s guest contribution.
+**Independent research project:** The Research Platform can support an independent research project from the early stages of creating a proposal to the final ones of dissemination and reporting. Along the way, we can help you get in touch with relevant participants, offer you a desk to work from while in the field, and give input and feedback on your project. As an independent researcher, you are asked to take care of your own visa and you will be asked to pay Auroville’s guest contribution.
 
-**A research project that responds to a research need**
-Please have a look at [the Savi website](https://auroville-learning.net/what-you-can-do/research/) for an overview of Auroville’s current research needs to see which project fits you best. Get in touch with us and let us know which project attracts you. We will reach out to the host organisation and see if they can accommodate you as a research volunteer. Savi will help you secure a volunteer visa, and you will be asked to pay Auroville’s volunteer contribution.
+**A research project that responds to a research need:** Please have a look at [the Savi website](https://auroville-learning.net/what-you-can-do/research/) for an overview of Auroville’s current research needs to see which project fits you best. Get in touch with us and let us know which project attracts you. We will reach out to the host organisation and see if they can accommodate you as a research volunteer. Savi will help you secure a volunteer visa, and you will be asked to pay Auroville’s volunteer contribution.
 
-**A hybrid project**
-Please reach out to us <a href="mailto:researchplatform@auroville.org.in">researchplatform@auroville.org.in</a> and we will decide together what format makes the most sense.
+**A hybrid project:** Please reach out to us <a href="mailto:researchplatform@auroville.org.in">researchplatform@auroville.org.in</a> and we will decide together what format makes the most sense.
 
 We encourage everyone to do some form of part-time volunteering besides doing their research. It is not only a great way to give back to the community, but also a good opportunity to meet and exchange with Aurovilians and get a good feel for what Auroville is about!
 
@@ -69,3 +66,6 @@ Here is our best guess of your expected costs on a medium budget (all amounts ar
 Once you have a draft research output, we ask that you share it with us and/or your research mentor, as well as your key participants, so that we can review and send you feedback. It is especially important that you check with research participants that the information they shared with you is accurately portrayed. Please also send us your final work so that we can make it available for future researchers who might want to look at a similar topic, and the Auroville community, as we are here to learn from your observations. To make this learning possible, we encourage you to disseminate your findings in the community. We can support you with this by setting up small dissemination seminars or publishing a summary of your findings on our internal community forums.
 
 Any questions? Don’t hesitate to get in touch at <a href="mailto:researchplatform@auroville.org.in">researchplatform@auroville.org.in</a>
+
+---
+[Return to the homepage]({{ site.baseurl }}/)
