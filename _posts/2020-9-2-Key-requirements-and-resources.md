@@ -27,8 +27,7 @@ Here are some key resources for you to consult in considering what research to u
 
 3. Much research has already been done in and on Auroville! All academic research outputs can be found on [AuroRepo](https://aurorepo.in), our online research repository. Do take some time to explore this resource. You may find that your intended research has already been carried out, and/or find interesting opportunities to build on previous projects.
 
-> Note: While you don't need a user account on AuroRepo to browse the website and download openly available items, some items are restricted to registered users, who are normally Auroville residents. If you are going to undertake research in Auroville, please get in touch with us to discuss your access rights on AuroRepo.
+*Note: While you don't need a user account on AuroRepo to browse the website and download openly available items, some items are restricted to registered users, who are normally Auroville residents. If you are going to undertake research in Auroville, please get in touch with us to discuss your access rights on AuroRepo.*
 
-# Contact
-
-<a href="mailto:researchplatform@auroville.org.in">researchplatform@auroville.org.in</a>
+---
+[Return to the homepage]({{ site.baseurl }}/)
