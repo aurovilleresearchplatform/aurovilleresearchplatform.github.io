@@ -25,7 +25,7 @@ For a later research project, I returned to India, and through a myriad of avenu
 
 **Ravi Murugesan**
 
-I have experience using open source software in the development sector and when I joined the Research Platform team I helped to identify a suitable application for AuroRepo. Administering this website is my main responsibility in the team. I also help with the online learning initiative of the Auroville Earth Institute.
+I have experience using open source software in the development sector and when I joined the Research Platform team I helped to identify a suitable application for AuroRepo, which I have been maintaining since then. I also help with the online learning initiative of the Auroville Earth Institute.
 
 ---
 [Return to the homepage]({{ site.baseurl }}/)
