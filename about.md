@@ -25,7 +25,9 @@ For a later research project, I returned to India, and through a myriad of avenu
 
 **Ravi Murugesan**
 
-I have experience using open source software in the development sector and when I joined the Research Platform team I helped to identify a suitable application for AuroRepo, which I have been maintaining since then. I also help with the online learning initiative of the Auroville Earth Institute.
+I gained some exposure to research when, as a graduate student, I took part in a multidisciplinary project involving the use of a small plasma reactor to improve the blood-compatibility of surfaces. I played a lead role in a particular aspect of this project, and this work led to [a publication in the Journal of Applied Physics](https://doi.org/10.1063/1.2908200).
+
+When I joined the Research Platform team I helped to identify a suitable application for AuroRepo, drawing on my experience using open source software in the development sector. Taking care of AuroRepo is my main responsibility in the team. I also administer the online learning platform of the Auroville Earth Institute.
 
 ---
 [Return to the homepage]({{ site.baseurl }}/)
