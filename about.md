@@ -29,7 +29,7 @@ Committee on the Elimination of Discrimination against Women.
 
 For a later research project, I returned to India, and through a myriad of avenues ended up back in Pondicherry, researching India’s middle class’ orientations towards arranged marriage. Reconnecting to Auroville, I decided to settle here in 2016. Since then, I have been farming, facilitating, and building a new community – the Joy of Impermanence. I now run a blog, [the Auroville Adventure](https://adventure.auroville.com/), to help keep people connected to our community. The Research Platform is my way of supporting researchers who come, like I came before, to learn about the Auroville experiment.
 
-## Ravi Murugesan
+## Ravi M
 
 <img src="https://aurovilleresearchplatform.github.io/images/Ravi.jpg" style="max-width:35%;float:left;padding-right:20px;padding-bottom:10px;">
 I gained some exposure to research when, as a graduate student, I took part in an interdisciplinary project involving the use of a small plasma reactor to improve the blood-compatibility of surfaces. I played a lead role in a particular aspect of this project, and this work led to a publication in the Journal of Applied Physics. When I joined the Research Platform team in 2018, I helped to identify a suitable application for AuroRepo, drawing on my experience using open source software in the development sector. Taking care of AuroRepo is my main responsibility in the team. I also administer the online learning platform of the Auroville Earth Institute.
