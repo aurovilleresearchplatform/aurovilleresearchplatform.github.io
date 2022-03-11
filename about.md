@@ -33,7 +33,7 @@ For a later research project, I returned to India, and through a myriad of avenu
 
 <div>
 <img src="https://aurovilleresearchplatform.github.io/images/Ravi.jpg" style="max-width:35%;object-fit: contain;float:bottom;padding-right:20px;padding-bottom:10px;">
-<p>I manage this website and Aurorepo. I have a bit of research experience and I've published a few papers, which are listed on my <a href="https://scholar.google.co.in/citations?user=yVRjrEsAAAAJ" target="_blank">Google Scholar profile</a>.</p>
+<p>I manage this website and AuroRepo. I also have a bit of research experience from my time as a graduate student.</p>
 </div>
 
 
