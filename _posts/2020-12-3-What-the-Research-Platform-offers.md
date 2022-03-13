@@ -1,11 +1,9 @@
 ---
 layout: post
-title: What We Offer
+title: What the Research Platform Offers
 ---
 
-The Research Platform aims to support cooperation between visiting researchers and Auroville by providing a point of contact for researchers interested in our community.
-
-We offer various resources to ensure that your research is original, relevant and of some utility for Auroville, and that it can be executed with a strong understanding of the Auroville context.
+The Research Platform team in Auroville aims to support cooperation between visiting researchers and Auroville by providing a point of contact for researchers interested in our community. We offer various resources to ensure that your research is original, relevant and of some utility for Auroville, and that it can be executed with a strong understanding of the Auroville context.
 
 # Our Process
 
