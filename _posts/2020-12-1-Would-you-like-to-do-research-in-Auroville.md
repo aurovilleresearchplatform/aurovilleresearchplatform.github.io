@@ -65,6 +65,12 @@ Here is our best guess of your expected costs on a medium budget (all amounts ar
 
 Once you have a draft research output, we ask that you share it with us and/or your research mentor, as well as your key participants, so that we can review and send you feedback. It is especially important that you check with research participants that the information they shared with you is accurately portrayed. Please also send us your final work so that we can make it available for future researchers who might want to look at a similar topic, and the Auroville community, as we are here to learn from your observations. To make this learning possible, we encourage you to disseminate your findings in the community. We can support you with this by setting up small dissemination seminars or publishing a summary of your findings on our internal community forums.
 
+# A note about doing research in Auroville
+
+The emphasis on transformative experimental research in the community is not always aligned with more formal, academic research in terms of its methods, values, and outputs. While some in Auroville recognise the significance of formal research for assessing and communicating about experimentation that is happening in our community, others are sceptical of its merit. A key concern is that such research is too abstracted from life, shaped by the goal of producing a formal written output, and thereby lacking the transformational potential that Aurovilians most value. Relatedly, it is felt that academic research is unable to understand and interpret the spiritual dimension of Auroville, which largely plays out beyond the reach of traditional research methods. We encourage you, as a visiting researcher, to take into consideration the community’s "native" understanding and history of "research" and where possible, take this into account in your own work.
+
+See also: [Watts, Heidi. *Research: Large "R" or small?* Ritam (2003), pp. 14-16](https://aurorepo.in/id/eprint/51/)
+
 Any questions? Don’t hesitate to get in touch at <a href="mailto:researchplatform@auroville.org.in">researchplatform@auroville.org.in</a>
 
 ---
