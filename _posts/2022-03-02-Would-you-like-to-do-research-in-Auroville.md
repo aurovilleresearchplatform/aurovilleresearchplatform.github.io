@@ -35,7 +35,7 @@ There are slightly different procedures for each, especially if you are not an I
 
 We encourage everyone to do some form of part-time volunteering besides doing their research. It is not only a great way to give back to the community, but also a good opportunity to meet and exchange with Aurovilians and get a good feel for what Auroville is about!
 
-# Key Resources for Developing Your Research Project
+# Key resources for developing your research project
 
 Here are some key resources for you to consult in considering what research to undertake in Auroville:
 
