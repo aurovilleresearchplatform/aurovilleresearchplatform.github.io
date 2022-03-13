@@ -5,6 +5,8 @@ title: Would You Like to Do Research in Auroville?
 
 Every year many researchers come to do academic research in Auroville, usually in pursuit of a PhD or other degree. We are happy to receive them as Auroville is an experiment for all of humanity. Over the years, we have noticed that some things are good to know and do before coming to Auroville. Here is a short overview of how you can approach a research project in Auroville.
 
+*Note: This guide is geared towards external researchers. If you are an Auroville resident interested in research, please feel free to email us with your questions or ideas: <a href="mailto:researchplatform@auroville.org.in">researchplatform@auroville.org.in</a>.*
+
 # Starting out
 
 While it is small and clearly centered around a core set of values, Auroville is a very complex place. We advise that you familiarize yourself through reading the articles on [the main Auroville website](https://www.auroville.org) and perhaps have a look at [the Auroville Adventure blog](https://adventure.auroville.com). It is also a great idea to read an introduction to Sri Aurobindo’s life and work, such as *The Adventure of Consciousness* by Satprem (you can find a free version online [here](https://www.auro-ebooks.com/sri-aurobindo-or-the-adventure-of-consciousness/)).
@@ -51,7 +53,7 @@ Once you have defined your project and gone through the key resources mentioned 
 
 **1. Make contact with the Research Platform via email.**
 
-Please tell us what kind of project you would like to carry out and what support you might need. Write to us at <a href="mailto:researchplatform@auroville.org.in">researchplatform@auroville.org.in</a>.
+Familiarise yourself with [the services of the Research Platform](https://aurovilleresearchplatform.github.io/What-the-Research-Platform-offers/). Then please get in touch with us to explain what kind of project you would like to carry out and what support you might need from us. Our email: <a href="mailto:researchplatform@auroville.org.in">researchplatform@auroville.org.in</a>.
 
 **2. Obtain a visa that enables you to legally undertake research in India.**
 
