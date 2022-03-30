@@ -1,14 +1,8 @@
 ---
 layout: page
-title: About Us
-permalink: /about/
+title: Research Platform Team
+permalink: /research-platform-team/
 ---
-
-The Auroville Research Platform supports fertile cooperation between visiting researchers and Auroville by providing a point of contact and resource centre for researchers interested in our community. We are registered as a sub-unit of the Sri Aurobindo International Institute of Educational Research (SAIIER) in Auroville.
-
-<hr>
-<strong>Note: </strong> If you are looking for higher or further education opportunities in Auroville, check out <a href="https://edu.auroville.org/" target="_blank">https://edu.auroville.org/</a>. For volunteering and internship opportunities, see <a href="https://auroville-learning.net/" target="_blank">https://auroville-learning.net/</a>.
-<hr>
 
 The core members of the Research Platform team are Suryamayi, Henrike and Ravi.
 
