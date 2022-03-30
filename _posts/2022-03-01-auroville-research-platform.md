@@ -48,7 +48,6 @@ Our email address: <a href="mailto:researchplatform@auroville.org.in">researchpl
 
 ---
 <strong>Note: </strong> If you are looking for higher or further education opportunities in Auroville, check out <a href="https://edu.auroville.org/" target="_blank">https://edu.auroville.org/</a>. For volunteering and internship opportunities, see <a href="https://auroville-learning.net/" target="_blank">https://auroville-learning.net/</a>.
----
 
 ---
 [Research platform team]({{ site.baseurl }}/research-platform-team)
