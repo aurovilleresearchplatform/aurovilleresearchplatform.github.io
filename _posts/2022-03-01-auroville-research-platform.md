@@ -1,16 +1,18 @@
 ---
 layout: post
-title: What the Research Platform Offers
+title: The Auroville Research Platform
 ---
 
-The Research Platform team in Auroville aims to support cooperation between visiting researchers and Auroville by providing a point of contact for researchers interested in our community. We offer various resources to ensure that your research is original, relevant and of some utility for Auroville, and that it can be executed with a strong understanding of the Auroville context.
+The Auroville Research Platform supports fertile cooperation between visiting researchers and Auroville by providing a point of contact and resource centre for researchers interested in our community. We offer various resources to ensure that your research is original, relevant and of some utility for Auroville, and that it can be executed with a strong understanding of the Auroville context.
+
+The Auroville Research Platform team also manages the Auroville Repository – or <a href="https://aurorepo.in/">AuroRepo</a>, a website with research outputs that result from work that is focused on or tangibly related to some aspect of Auroville in any discipline.
 
 # Our Process
 
 We first identify whether your research project is
 
-1. A research project that meets an [explicit research need of Auroville](https://auroville-learning.net/what-you-can-do/research/), and/or
-2. A personal research project.
+1. Something that meets an [explicit research need of Auroville](https://auroville-learning.net/what-you-can-do/research/), and/or
+2. Motivated by a personal or professional goal
 
 While we encourage you to explore and engage with Auroville’s research needs, our team supports all research proposals – to the extent that they appear viable – in the spirit of experimentation and collaboration that Auroville is based on.
 
@@ -43,4 +45,6 @@ The Auroville Research Platform team looks forward to hearing from you!
 Our email address: <a href="mailto:researchplatform@auroville.org.in">researchplatform@auroville.org.in</a>
 
 ---
+[Research platform team]({{ site.baseurl }}/research-platform-team)
+
 [Return to the homepage]({{ site.baseurl }}/)

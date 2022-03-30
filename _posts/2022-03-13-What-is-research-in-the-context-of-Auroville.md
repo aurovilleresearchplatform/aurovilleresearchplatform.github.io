@@ -21,23 +21,5 @@ Inspired by this vision, in the last 50 years the community has focussed its act
 
 In addition to research done by the residents of Auroville, a substantial body of research literature has been produced as a result of collaborations between Auroville-based researchers/practitioners and external researchers. Over the years, Auroville has also hosted several research scholars who have chosen to focus their master’s or doctoral work on one or more aspects of Auroville.
 
-# Auroville Research Platform
-
-The Auroville Research Platform supports fertile cooperation between visiting researchers and Auroville by providing a point of contact and resource centre for researchers interested in our community. The Auroville Research Platform team also manages the Auroville Repository – or <a href="https://aurorepo.in/">AuroRepo</a>, a website with research outputs that result from work that is focused on or tangibly related to some aspect of Auroville in any discipline.
-
-To learn more about our services, explore the other posts from the [homepage of this website]({{ site.baseurl }}/).
-
-# Donations to support research
-
-The international township of Auroville is governed by an act of the Indian Parliament, which established the [Auroville Foundation](https://auroville.org/contents/540) in 1988.
-
-The Auroville Foundation has been approved by the Government of India under Section 35(1)(ii) and Section 35(1)(iii) of the Income Tax Act, 1961.
-
-- Through Section(1)(ii), donations made towards scientific research are eligible for income tax relief.
-
-- Through Section(1)(iii), donations made towards social sciences research are eligible for income tax relief.
-
-[Learn more about donations](https://auroville.org/contents/2835).
-
 ---
 [Return to the homepage]({{ site.baseurl }}/)
